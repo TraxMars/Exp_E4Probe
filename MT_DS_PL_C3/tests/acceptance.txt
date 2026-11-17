@@ -1,0 +1,6 @@
+PASS: C1/C3 initialization, all four outputs and backward gradients match bitwise in train/eval
+PASS: global Top/Bottom transfer matches first-version values; donor detached, receiver/module gradients finite
+PASS: random routing checkpoint restores exactly, global RNG untouched, empty/zero/sham paths are identities
+PASS: real CLI 4-step none/zero-strength trajectories exactly reproduce C1, including Teacher/probe BN
+PASS: sham/Top/Random/Bottom CLI train, active transfer changes Student, LA/Pancreas smoke and checkpoint reload
+PASS: inverting all hidden unlabeled GT leaves Student/Teacher/probe/transfer state bitwise unchanged

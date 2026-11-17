@@ -1,0 +1,73 @@
+{
+  "parameters": {
+    "levels": [
+      "e4",
+      "e3"
+    ],
+    "datasets": [
+      "LA",
+      "Pancreas"
+    ],
+    "seeds": [
+      42,
+      500,
+      1337
+    ],
+    "device": "cpu",
+    "cpu_threads": 4,
+    "sampling_seed": 20261113,
+    "crops_per_case": 2,
+    "topk": 16,
+    "random_repeats": 8
+  },
+  "torch_version": "2.9.1+cu126",
+  "numpy_version": "1.26.4",
+  "inputs": {
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/06SR5RBREL16DQ6M8LWS/mri_norm2.h5": "ae44895d7b9087c76e729186acc4b180bfcacb89d5f06a4a7f30ed874f13e857",
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/0RZDK210BSMWAA6467LU/mri_norm2.h5": "cc0abb17087e575074c1d48ca7881852cfa30b226d7b73b4739709cc5439e7de",
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/1D7CUD1955YZPGK8XHJX/mri_norm2.h5": "e465f81bf18c6d68b30fa006c389281e7365e6341d3dae3c57f5a21528b643cc",
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/1GU15S0GJ6PFNARO469W/mri_norm2.h5": "97010a90ac17a9c08faadd9148b0179028eaceb9ef310b2e3bd3b8ba8f188571",
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/1MHBF3G6DCPWHSKG7XCP/mri_norm2.h5": "07226cd6435943e5feeb85288e47c1e29feae1366efd352d062a229aa9606e2c",
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/23X6SY44VT9KFHR7S7OC/mri_norm2.h5": "ccd4b4d46ee9fb77f9441a0248eb1db231087af967eb6f87bf15525c76a21a79",
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/2XL5HSFSE93RMOJDRGR4/mri_norm2.h5": "5b2b3c7a500a5f426a3d30cb3cf5d66ec94da7875a907c6e8783489e0fe40641",
+    "/aita_data/home/aita_duanxuelong/Dataset/LA/2018LA_Seg_TrainingSet/38CWS74285MFGZZXR09Z/mri_norm2.h5": "4f9676824a598c5d1e25ce19000f14349b67d995af73702cb61c22eea8410671",
+    "/aita_data/home/aita_duanxuelong/Dataset/Pancreas/Pancreas_h5/image0017_norm.h5": "b898648e4d51f5cfb1986517381f6f55aaeaeb34deb800b590d03648188291ee",
+    "/aita_data/home/aita_duanxuelong/Dataset/Pancreas/Pancreas_h5/image0018_norm.h5": "cb2750ff114d3a89744b6dc403a69fdb480bc0bee1906e816a9d7dadb2ba2936",
+    "/aita_data/home/aita_duanxuelong/Dataset/Pancreas/Pancreas_h5/image0020_norm.h5": "771f884fd49460d8578bb5aaf407549a7bd1b298ac478d5108817782dfe5ac35",
+    "/aita_data/home/aita_duanxuelong/Dataset/Pancreas/Pancreas_h5/image0031_norm.h5": "030fbda7eac09f57969605b3276103cbeed63ce291e4d264904cd0477c35b15b",
+    "/aita_data/home/aita_duanxuelong/Dataset/Pancreas/Pancreas_h5/image0057_norm.h5": "59461e684298c4167dc62d7cb869b2f72c6231d100e264d069e8fb80cf201956",
+    "/aita_data/home/aita_duanxuelong/Dataset/Pancreas/Pancreas_h5/image0062_norm.h5": "f59cec5e268f9392ae8e9f96f0d2778bd8e0f390f1acfd4632b0f7981678d5d2",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_1337/LA_8l/config.json": "e2797e2e2868caaee70d27910b36e89f046cd4fdc6f12e33bfe9bd8e3b2c5884",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_1337/LA_8l/last_checkpoint.pth": "baaa2fa9609c0ed077697cbcc0dae3e6ce06040d406e25b407ee0f1c7b6c68ab",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_1337/Pancreas_6l/config.json": "839b5b24b0d551ef9cc98d6b6d138026c4dd5f8bf0f6603a596a9a111ffe2d1f",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_1337/Pancreas_6l/last_checkpoint.pth": "e629391cb5a4a85674f39831a1d13dcbc63a6a65c959e9f242a247e0deec015a",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_42/LA_8l/config.json": "cd18822af2c23f1cb003dbe43d09443cf8567e6f52451bdd946cd34c61a3f66e",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_42/LA_8l/last_checkpoint.pth": "7595b567631221e18705b4541eb9ac5df4204f7ed915ebe5105361731ec471e5",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_42/Pancreas_6l/config.json": "673b27e9e621e04a5530e795bcaee199cd898ced9e083b4b255ce2862841b192",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_42/Pancreas_6l/last_checkpoint.pth": "f030e9dd6dbe15f535f21edf9022139bdebd4c947e5e707fe30143345caa60b0",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_500/LA_8l/config.json": "3306b41200e3caf3f1e8312b62419534261b1cffdd29dc4dafbc462615d857a2",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_500/LA_8l/last_checkpoint.pth": "ddd79186dedb747b24885ff19bef1eaee543d7d8e8e5027acfeb5d70c1bfc8aa",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_500/Pancreas_6l/config.json": "4b48fce56bffc9a9f296b2c2571466173dca17a85c974c6a26ba4b2e7b10b48f",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E3/seed_500/Pancreas_6l/last_checkpoint.pth": "4f5a018a750e2de449a3e69272def7189a0e053b89aeb0926bdda30a552f856c",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_1337/LA_8l/config.json": "4a0382e7d321d2b12688185596d7429c4c67b0ce224b6728286f61d2439b3450",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_1337/LA_8l/last_checkpoint.pth": "05b1712c3d59b780c12cfa5363b0759c4c7c3f3aff6e9764de71cd164adb7ef7",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_1337/Pancreas_6l/config.json": "e43a0552987cdf9bf41228d5feb210fe89f7164392542cdfaf6e45b98e74fcc7",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_1337/Pancreas_6l/last_checkpoint.pth": "6174ca9640e0f79072e5b5fcfe862de089855f855afde5d37d99043ecf1af812",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_42/LA_8l/config.json": "92f781bbbe48d582011deaac9a1dfaed536f057db64ca3e30417d2cbe113c39a",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_42/LA_8l/last_checkpoint.pth": "1f827c372962d4d34eebecb95946d70062115d00e1254e294d31cd732e258400",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_42/Pancreas_6l/config.json": "6744740422e758737dd2988350294b3e9ff673d405b3efc052c5d91d7f8bfe28",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_42/Pancreas_6l/last_checkpoint.pth": "802b58e7fa8c1c8aea40696cb51819f355e22f3c612b7bd53e6a6eb5914c129e",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_500/LA_8l/config.json": "46c6bfa8fab8b8a7e8e2414a72007cfb37622438b430f5c7c6803b3290039c55",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_500/LA_8l/last_checkpoint.pth": "12a557f7d131479378c0721e51a4a56d92556d98909c3c2b227c54517b5c0b9d",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_500/Pancreas_6l/config.json": "d255161d3b71812e8aefd0f2e84e2639ecac62188641ab20ab885bcd5c9dd5f6",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/Results_C1_E4/seed_500/Pancreas_6l/last_checkpoint.pth": "6f36b5d650e04b6609f4279906551dc0c36e334dfe6ed02d9b893de9fa80cd62"
+  },
+  "sources": {
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/C2_CBCD/scripts/analyze.py": "8beaca0b439bdb72ceee15d84ea56d1140785d304d45a1f2cb3e231a337afab1",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/C2_CBCD/code/channel_analysis.py": "fe96b13a2b9d8921f8a8ba988173cb63b17d70eff18dd50f618f438b06eac12d",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/C2_CBCD/README.md": "dbe538d965edea79c551a67d12c43403201058bb653c9546d9e2efec714f9864",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/code/boundary_probe.py": "9bdb6a2046e63cb717fbd885688c80da9a114a4aba3747d341da781a42faa1cc",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/code/networks/vnet_ds.py": "4cd6ce4b404e188c3f21bd02456b0bf550ed302ae3b118fab35ae1b3340bee52",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1/code/data.py": "39ac62969876ad545044a20c86745b8793a680f332116bd58b7a6a09d81084d4"
+  }
+}

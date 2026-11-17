@@ -1,0 +1,20 @@
+{
+  "pid": 1348557,
+  "started_at": "2026-11-13T17:09:37.067769+08:00",
+  "command": [
+    "/aita_data/home/aita_duanxuelong/.conda/envs/SSL29/bin/python",
+    "-u",
+    "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C3/scripts/launch_transfer.py",
+    "--memory_mib",
+    "8000",
+    "--max_per_gpu",
+    "1",
+    "--settle_seconds",
+    "30",
+    "--poll_seconds",
+    "30"
+  ],
+  "log": "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C3/queue_20261113_170937.log",
+  "environment": "SSL29",
+  "jobs": 24
+}

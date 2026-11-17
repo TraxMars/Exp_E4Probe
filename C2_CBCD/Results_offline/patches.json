@@ -1,0 +1,646 @@
+[
+  {
+    "dataset": "LA",
+    "case": "06SR5RBREL16DQ6M8LWS",
+    "crop": 0,
+    "crop_seed": 2184379308,
+    "rotation_k": 2,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      55,
+      12,
+      1
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "06SR5RBREL16DQ6M8LWS",
+    "crop": 1,
+    "crop_seed": 949930127,
+    "rotation_k": 0,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      59,
+      14,
+      4
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "0RZDK210BSMWAA6467LU",
+    "crop": 0,
+    "crop_seed": 1055785642,
+    "rotation_k": 0,
+    "flip_axis": 1,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      54,
+      0,
+      7
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "0RZDK210BSMWAA6467LU",
+    "crop": 1,
+    "crop_seed": 489659845,
+    "rotation_k": 3,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      17,
+      69,
+      4
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "1D7CUD1955YZPGK8XHJX",
+    "crop": 0,
+    "crop_seed": 2369369394,
+    "rotation_k": 3,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      13,
+      84,
+      1
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "1D7CUD1955YZPGK8XHJX",
+    "crop": 1,
+    "crop_seed": 3030074931,
+    "rotation_k": 1,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      27,
+      58,
+      4
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "1GU15S0GJ6PFNARO469W",
+    "crop": 0,
+    "crop_seed": 1020934683,
+    "rotation_k": 2,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      68,
+      19,
+      3
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "1GU15S0GJ6PFNARO469W",
+    "crop": 1,
+    "crop_seed": 1751892660,
+    "rotation_k": 1,
+    "flip_axis": 1,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      22,
+      57,
+      4
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "1MHBF3G6DCPWHSKG7XCP",
+    "crop": 0,
+    "crop_seed": 790472411,
+    "rotation_k": 3,
+    "flip_axis": 1,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      10,
+      39,
+      5
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "1MHBF3G6DCPWHSKG7XCP",
+    "crop": 1,
+    "crop_seed": 3164776892,
+    "rotation_k": 0,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      13,
+      29,
+      3
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "23X6SY44VT9KFHR7S7OC",
+    "crop": 0,
+    "crop_seed": 3398735755,
+    "rotation_k": 3,
+    "flip_axis": 1,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      1,
+      39,
+      4
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "23X6SY44VT9KFHR7S7OC",
+    "crop": 1,
+    "crop_seed": 2497831134,
+    "rotation_k": 0,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      29,
+      30,
+      6
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "2XL5HSFSE93RMOJDRGR4",
+    "crop": 0,
+    "crop_seed": 1468185263,
+    "rotation_k": 2,
+    "flip_axis": 1,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      35,
+      16,
+      6
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "2XL5HSFSE93RMOJDRGR4",
+    "crop": 1,
+    "crop_seed": 4272805189,
+    "rotation_k": 0,
+    "flip_axis": 0,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      51,
+      16,
+      4
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "38CWS74285MFGZZXR09Z",
+    "crop": 0,
+    "crop_seed": 2477001789,
+    "rotation_k": 0,
+    "flip_axis": 1,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      18,
+      26,
+      2
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "LA",
+    "case": "38CWS74285MFGZZXR09Z",
+    "crop": 1,
+    "crop_seed": 1829843171,
+    "rotation_k": 3,
+    "flip_axis": 1,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      5,
+      50,
+      0
+    ],
+    "patch_size": [
+      112,
+      112,
+      80
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0057",
+    "crop": 0,
+    "crop_seed": 493523074,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      65,
+      25,
+      12
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0057",
+    "crop": 1,
+    "crop_seed": 2388793715,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      53,
+      48,
+      35
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0018",
+    "crop": 0,
+    "crop_seed": 3736414984,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      85,
+      41,
+      89
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0018",
+    "crop": 1,
+    "crop_seed": 2382761345,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      76,
+      18,
+      35
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0062",
+    "crop": 0,
+    "crop_seed": 2098113021,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      39,
+      26,
+      97
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0062",
+    "crop": 1,
+    "crop_seed": 2833585477,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      23,
+      21,
+      31
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0031",
+    "crop": 0,
+    "crop_seed": 733603899,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      4,
+      3,
+      91
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0031",
+    "crop": 1,
+    "crop_seed": 2885111469,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      24,
+      5,
+      38
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0020",
+    "crop": 0,
+    "crop_seed": 3995503472,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      73,
+      0,
+      9
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0020",
+    "crop": 1,
+    "crop_seed": 2107273782,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      68,
+      6,
+      42
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0017",
+    "crop": 0,
+    "crop_seed": 2274468382,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      65,
+      42,
+      67
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  },
+  {
+    "dataset": "Pancreas",
+    "case": "image0017",
+    "crop": 1,
+    "crop_seed": 3993784129,
+    "rotation_k": 0,
+    "flip_axis": null,
+    "padding": [
+      0,
+      0,
+      0
+    ],
+    "starts": [
+      69,
+      25,
+      102
+    ],
+    "patch_size": [
+      96,
+      96,
+      96
+    ]
+  }
+]

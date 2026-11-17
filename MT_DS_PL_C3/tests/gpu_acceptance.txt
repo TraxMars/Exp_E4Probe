@@ -1,0 +1,4 @@
+GPU acceptance: SSL29 / torch 2.9.1+cu126 / NVIDIA A100, 2026-11-13
+Six full-size updates per dataset; smoke-only warmup=2, transfer start=2, ramp=2; not formal experimental results.
+PASS: LA, 6/6 updates, nonzero transfer residual, peak 5729.49 MiB, checkpoint saved
+PASS: Pancreas, 6/6 updates, nonzero transfer residual, peak 5082.31 MiB, checkpoint saved

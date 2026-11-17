@@ -1,0 +1,13 @@
+{
+  "manifest": "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C3/Results_transfer/launch_logs/continuation_20261117_172306_985770/manifest.json",
+  "counts": {
+    "pending": 9,
+    "running": 1,
+    "finished": 14,
+    "failed": 0
+  },
+  "phase": "running",
+  "updated_at": "2026-11-17T17:54:12+08:00",
+  "min_free_mib": 9000,
+  "max_active": 2
+}

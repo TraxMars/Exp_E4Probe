@@ -1,0 +1,349 @@
+{
+  "split": "test",
+  "cases": 20,
+  "empty_prediction_cases": 0,
+  "dice": 0.8895197646628983,
+  "dice_std": 0.03416992719838736,
+  "jc": 0.8027007983366647,
+  "jc_std": 0.054551728955330246,
+  "hd95": 10.210870095792517,
+  "hd95_std": 10.67312639483715,
+  "asd": 2.466132896575802,
+  "asd_std": 2.3664470340001316,
+  "per_case": [
+    {
+      "case": "UPT6DX9IQY9JAZ7HJKA7",
+      "dice": 0.8408194889751679,
+      "jc": 0.7253568197344855,
+      "hd95": 11.180339887498949,
+      "asd": 3.433704181324935,
+      "empty_prediction": false
+    },
+    {
+      "case": "UTBUJIWZMKP64E3N73YC",
+      "dice": 0.8959320934340572,
+      "jc": 0.8114827793706417,
+      "hd95": 6.708203932499369,
+      "asd": 1.6095961399402534,
+      "empty_prediction": false
+    },
+    {
+      "case": "ULHWPWKKLTE921LQLH1P",
+      "dice": 0.8880664953189904,
+      "jc": 0.7986687077783109,
+      "hd95": 9.848857801796104,
+      "asd": 1.2472887065642553,
+      "empty_prediction": false
+    },
+    {
+      "case": "V0MZOWJ6MU3RMRCV9EXR",
+      "dice": 0.90976732259619,
+      "jc": 0.8344707890820469,
+      "hd95": 5.0990195135927845,
+      "asd": 1.2414521188017589,
+      "empty_prediction": false
+    },
+    {
+      "case": "VDOF02M8ZHEAADFMS6NP",
+      "dice": 0.9048441924884324,
+      "jc": 0.8262241648925146,
+      "hd95": 5.830951894845301,
+      "asd": 1.5508273888032842,
+      "empty_prediction": false
+    },
+    {
+      "case": "VG4C826RAAKVMV9BQLVD",
+      "dice": 0.8361642973019126,
+      "jc": 0.7184556165131011,
+      "hd95": 12.041594578792296,
+      "asd": 3.4989680517133577,
+      "empty_prediction": false
+    },
+    {
+      "case": "VIXBEFTNVHZWKAKURJBN",
+      "dice": 0.9279359526083644,
+      "jc": 0.8655601825898935,
+      "hd95": 3.605551275463989,
+      "asd": 1.1475478657006608,
+      "empty_prediction": false
+    },
+    {
+      "case": "VQ2L3WM8KEVF6L44E6G9",
+      "dice": 0.8326649776812644,
+      "jc": 0.7133042029590617,
+      "hd95": 11.357816691600547,
+      "asd": 2.097605942724436,
+      "empty_prediction": false
+    },
+    {
+      "case": "WBG9WYZ1B25WDT5WAT8T",
+      "dice": 0.9212068318282554,
+      "jc": 0.853923494333437,
+      "hd95": 5.385164807134504,
+      "asd": 2.0089785028273797,
+      "empty_prediction": false
+    },
+    {
+      "case": "WMDG2EFA6L2SNDZXIRU0",
+      "dice": 0.9263799330807242,
+      "jc": 0.8628563880507065,
+      "hd95": 4.0,
+      "asd": 1.0507408780787029,
+      "empty_prediction": false
+    },
+    {
+      "case": "WNPKE0W404QE9AELX1LR",
+      "dice": 0.8501781601275666,
+      "jc": 0.739399905834011,
+      "hd95": 7.483314773547883,
+      "asd": 2.5311957384593122,
+      "empty_prediction": false
+    },
+    {
+      "case": "WSJB9P4JCXUVHBOYFVWL",
+      "dice": 0.8332187197712675,
+      "jc": 0.7141173190642257,
+      "hd95": 54.41093550993574,
+      "asd": 12.093893698921768,
+      "empty_prediction": false
+    },
+    {
+      "case": "WW8F5CO4S4K5IM5Z7EXX",
+      "dice": 0.9016930543307501,
+      "jc": 0.8209845689187608,
+      "hd95": 9.433981132056603,
+      "asd": 1.2105311711792526,
+      "empty_prediction": false
+    },
+    {
+      "case": "X18LU5AOBNNDMLTA0JZL",
+      "dice": 0.907880682558291,
+      "jc": 0.8313017342143556,
+      "hd95": 6.4031242374328485,
+      "asd": 3.06769746948558,
+      "empty_prediction": false
+    },
+    {
+      "case": "XYDLYJ5CS19FDBVLJIPI",
+      "dice": 0.9313473321165853,
+      "jc": 0.8715154699994546,
+      "hd95": 4.123105625617661,
+      "asd": 1.0532656548625674,
+      "empty_prediction": false
+    },
+    {
+      "case": "Y7ZU0B2APPF54WG6PDMF",
+      "dice": 0.9227476044318011,
+      "jc": 0.8565751241101638,
+      "hd95": 4.123105625617661,
+      "asd": 1.2936423733120264,
+      "empty_prediction": false
+    },
+    {
+      "case": "YDKD1HVHSME6NVMA8I39",
+      "dice": 0.8515439216292933,
+      "jc": 0.741468426757219,
+      "hd95": 13.601470508735444,
+      "asd": 3.7999590534426453,
+      "empty_prediction": false
+    },
+    {
+      "case": "Z9GMG63CJLL0VW893BB1",
+      "dice": 0.8992133316467824,
+      "jc": 0.8168824691454613,
+      "hd95": 4.47213595499958,
+      "asd": 1.5482339455816128,
+      "empty_prediction": false
+    },
+    {
+      "case": "ZIJLJAVQV3FJ6JSQOH1E",
+      "dice": 0.9174126138392793,
+      "jc": 0.8474259219782563,
+      "hd95": 13.92838827718412,
+      "asd": 1.667157611787634,
+      "empty_prediction": false
+    },
+    {
+      "case": "ZQPMJ4XEC5A4BISD45P1",
+      "dice": 0.8913782874929912,
+      "jc": 0.8040418814071854,
+      "hd95": 11.180339887498949,
+      "asd": 2.1703714380046093,
+      "empty_prediction": false
+    }
+  ],
+  "nms1": {
+    "cases": 20,
+    "empty_prediction_cases": 0,
+    "dice": 0.8915117871781316,
+    "dice_std": 0.032545097865014416,
+    "jc": 0.8057904168187209,
+    "jc_std": 0.052167637684953416,
+    "hd95": 7.953960241441548,
+    "hd95_std": 3.6034034575061256,
+    "asd": 1.819306849500488,
+    "asd_std": 0.8213461664861056,
+    "per_case": [
+      {
+        "case": "UPT6DX9IQY9JAZ7HJKA7",
+        "dice": 0.841046303511942,
+        "jc": 0.7256944829293344,
+        "hd95": 10.954451150103322,
+        "asd": 3.377310300487107,
+        "empty_prediction": false
+      },
+      {
+        "case": "UTBUJIWZMKP64E3N73YC",
+        "dice": 0.8959320934340572,
+        "jc": 0.8114827793706417,
+        "hd95": 6.708203932499369,
+        "asd": 1.6095961399402534,
+        "empty_prediction": false
+      },
+      {
+        "case": "ULHWPWKKLTE921LQLH1P",
+        "dice": 0.8880664953189904,
+        "jc": 0.7986687077783109,
+        "hd95": 9.848857801796104,
+        "asd": 1.2472887065642553,
+        "empty_prediction": false
+      },
+      {
+        "case": "V0MZOWJ6MU3RMRCV9EXR",
+        "dice": 0.90976732259619,
+        "jc": 0.8344707890820469,
+        "hd95": 5.0990195135927845,
+        "asd": 1.2414521188017589,
+        "empty_prediction": false
+      },
+      {
+        "case": "VDOF02M8ZHEAADFMS6NP",
+        "dice": 0.9048441924884324,
+        "jc": 0.8262241648925146,
+        "hd95": 5.830951894845301,
+        "asd": 1.5508273888032842,
+        "empty_prediction": false
+      },
+      {
+        "case": "VG4C826RAAKVMV9BQLVD",
+        "dice": 0.8363550961639825,
+        "jc": 0.7187373857840079,
+        "hd95": 12.0,
+        "asd": 3.452266186191586,
+        "empty_prediction": false
+      },
+      {
+        "case": "VIXBEFTNVHZWKAKURJBN",
+        "dice": 0.9279359526083644,
+        "jc": 0.8655601825898935,
+        "hd95": 3.605551275463989,
+        "asd": 1.1475478657006608,
+        "empty_prediction": false
+      },
+      {
+        "case": "VQ2L3WM8KEVF6L44E6G9",
+        "dice": 0.8326199105285763,
+        "jc": 0.7132380601981803,
+        "hd95": 11.704699910719626,
+        "asd": 2.097936579016591,
+        "empty_prediction": false
+      },
+      {
+        "case": "WBG9WYZ1B25WDT5WAT8T",
+        "dice": 0.9238651630423358,
+        "jc": 0.8585031645794412,
+        "hd95": 4.898979485566356,
+        "asd": 1.4036899153499394,
+        "empty_prediction": false
+      },
+      {
+        "case": "WMDG2EFA6L2SNDZXIRU0",
+        "dice": 0.9263799330807242,
+        "jc": 0.8628563880507065,
+        "hd95": 4.0,
+        "asd": 1.0507408780787029,
+        "empty_prediction": false
+      },
+      {
+        "case": "WNPKE0W404QE9AELX1LR",
+        "dice": 0.8500172286487817,
+        "jc": 0.7391564898402955,
+        "hd95": 8.306623862918075,
+        "asd": 2.533119039341547,
+        "empty_prediction": false
+      },
+      {
+        "case": "WSJB9P4JCXUVHBOYFVWL",
+        "dice": 0.8638835890603627,
+        "jc": 0.7603829860585135,
+        "hd95": 9.899494936611665,
+        "asd": 1.7808954672427542,
+        "empty_prediction": false
+      },
+      {
+        "case": "WW8F5CO4S4K5IM5Z7EXX",
+        "dice": 0.9016930543307501,
+        "jc": 0.8209845689187608,
+        "hd95": 9.433981132056603,
+        "asd": 1.2105311711792526,
+        "empty_prediction": false
+      },
+      {
+        "case": "X18LU5AOBNNDMLTA0JZL",
+        "dice": 0.9142687738739873,
+        "jc": 0.8420765212180377,
+        "hd95": 4.0,
+        "asd": 1.156106344243453,
+        "empty_prediction": false
+      },
+      {
+        "case": "XYDLYJ5CS19FDBVLJIPI",
+        "dice": 0.9313473321165853,
+        "jc": 0.8715154699994546,
+        "hd95": 4.123105625617661,
+        "asd": 1.0532656548625674,
+        "empty_prediction": false
+      },
+      {
+        "case": "Y7ZU0B2APPF54WG6PDMF",
+        "dice": 0.9227476044318011,
+        "jc": 0.8565751241101638,
+        "hd95": 4.123105625617661,
+        "asd": 1.2936423733120264,
+        "empty_prediction": false
+      },
+      {
+        "case": "YDKD1HVHSME6NVMA8I39",
+        "dice": 0.8515232626746679,
+        "jc": 0.7414371009880147,
+        "hd95": 13.856406460551018,
+        "asd": 3.8002633061595397,
+        "empty_prediction": false
+      },
+      {
+        "case": "Z9GMG63CJLL0VW893BB1",
+        "dice": 0.899223011979126,
+        "jc": 0.8168984469741423,
+        "hd95": 4.47213595499958,
+        "asd": 1.5453404689556158,
+        "empty_prediction": false
+      },
+      {
+        "case": "ZIJLJAVQV3FJ6JSQOH1E",
+        "dice": 0.9173371799495131,
+        "jc": 0.8472972036730104,
+        "hd95": 15.033296378372908,
+        "asd": 1.666390796724337,
+        "empty_prediction": false
+      },
+      {
+        "case": "ZQPMJ4XEC5A4BISD45P1",
+        "dice": 0.8913822437234625,
+        "jc": 0.8040483193389453,
+        "hd95": 11.180339887498949,
+        "asd": 2.1679262890545297,
+        "empty_prediction": false
+      }
+    ]
+  }
+}

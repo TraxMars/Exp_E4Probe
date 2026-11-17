@@ -1,0 +1,15 @@
+{
+  "base_directory": "/aita_data/home/aita_duanxuelong/Exp_E4Probe/MT_DS_PL_C1",
+  "base_commit": "6add5ca23a7b95037ac989215d92bcbb50042d4d",
+  "files": {
+    "code/boundary_probe.py": "9bdb6a2046e63cb717fbd885688c80da9a114a4aba3747d341da781a42faa1cc",
+    "code/data.py": "39ac62969876ad545044a20c86745b8793a680f332116bd58b7a6a09d81084d4",
+    "code/diagnostics.py": "7474ea6563b354f81f7746a0809a556fa966b9f40f18ec5f5552fbf6d385df32",
+    "code/evaluate.py": "43a339a30756519a1a35e9d8e38310f30f82d7411c44d442441cbbba9c9b9749",
+    "code/networks/__init__.py": "85c7cedba3b4be93ff6b7f172a17c2bbc251de3477dcbd6dfadc7892eae3c946",
+    "code/networks/vnet_ds.py": "4cd6ce4b404e188c3f21bd02456b0bf550ed302ae3b118fab35ae1b3340bee52",
+    "code/objectives.py": "a0e66a9ceaa4dcc71e86c38120438a88bf0356b3c578c3cf5665c67d3c1f5dfb",
+    "code/test.py": "e1ac5ea472893e39d0620def62c918877262e138674bc264da6507d2333ef378",
+    "code/train.py": "e3966c5a2ea9d22f1d5d49fddb19444acd7be6b2d3e1366d3e56d2f73a93e7bf"
+  }
+}

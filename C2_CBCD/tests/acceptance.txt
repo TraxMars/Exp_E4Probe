@@ -1,0 +1,8 @@
+Command: .conda/envs/SSL29/bin/python Exp_E4Probe/C2_CBCD/tests/verify_analysis.py
+Environment: SSL29, torch 2.9.1+cu126, CPU, 2026-11-13
+
+PASS: encoder-only feature equals existing full-forward E3/E4 exactly
+PASS: CBCD and Top/Bottom/Random interventions match independent calculations
+PASS: parameter gradients, mixed train/eval modes, BN state and global RNG untouched
+PASS: deterministic local crops, source arrays preserved, empty boundary recognized
+PASS: only the active channel receives a nonzero CBCD score
